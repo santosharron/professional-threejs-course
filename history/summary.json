@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 738,
-    "timeDay": 484,
+    "time": 741,
+    "timeDay": 843,
     "timeWeek": 711,
-    "timeMonth": 725,
-    "timeYear": 738,
+    "timeMonth": 734,
+    "timeYear": 741,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codedolt.com.ico",
     "slug": "code-dolt",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.51%",
+    "uptimeDay": "80.18%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.51%",
     "time": 345,
-    "timeDay": 230,
-    "timeWeek": 213,
-    "timeMonth": 359,
+    "timeDay": 310,
+    "timeWeek": 224,
+    "timeMonth": 351,
     "timeYear": 345,
     "dailyMinutesDown": {
-      "2023-07-22": 6
+      "2023-07-22": 285
     }
   }
 ]
