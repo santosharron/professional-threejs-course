@@ -4,9 +4,9 @@
     "url": "https://shop.codedolt.com/",
     "icon": "https://icons.duckduckgo.com/ip3/shop.codedolt.com.ico",
     "slug": "code-dolt-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 781,
     "timeMonth": 737,
     "timeYear": 749,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-26": 0
+    }
   },
   {
     "name": "Code Dolt",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/codedolt.com.ico",
     "slug": "code-dolt",
     "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "44.42%",
-    "uptimeWeek": "89.23%",
-    "uptimeMonth": "97.52%",
-    "uptimeYear": "98.25%",
+    "uptime": "97.28%",
+    "uptimeDay": "1.45%",
+    "uptimeWeek": "83.09%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "97.28%",
     "time": 402,
     "timeDay": 1250,
     "timeWeek": 568,
     "timeMonth": 443,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2023-07-26": 59,
+      "2023-07-26": 678,
       "2023-07-25": 741,
       "2023-07-22": 285
     }
